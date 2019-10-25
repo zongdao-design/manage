@@ -30,4 +30,4 @@
 12、要求模拟一定数据量，<b>检查性能</b>  
 13、<b>当天任务</b>须由测试人员当天<b>测试并确认</b>
 14、<b>代码检查</b>，包括函数处理或SQL查询的<b>性能</b>、代码<b>逻辑性</b>、<b>注释</b>等  
-15、接口文档是否按照规范编写
+15、接口文档是否按照[文档规范](https://github.com/zongdao-design/manage/blob/master/ApiDocStandard.md)编写
